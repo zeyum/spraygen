@@ -1,0 +1,3 @@
+features to add:
+
+Support for APNG format
